@@ -64,3 +64,5 @@ Pini Utilizați - ESP32-C6:
 
   - A fost necesara aprobarea a 2 erori de tip "smd-hole", deoarece piesa
   pentru J3 era defecta.
+  - Pentru TP-uri a trebuit sa implementez propriul design.
+  - Folosirea de VIAS-uri pentru a evita intersectia cablurilor.
