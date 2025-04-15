@@ -1,7 +1,7 @@
 Schema bloc se gaseste aici:
 https://drive.google.com/drive/u/0/folders/1svHynGlwr7JKA02n5Jt7F-PYmH98pda1
 
-BOM:
+## BOM:
 
 | Component                   | Quantity | Price (€) | Link                                                                                                                            | Datasheet                                                                                                                             |
 | :-------------------------- | -------- | --------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@ BOM:
 | DMG2305UX-7                 | 2        | 0.2       | https://store.comet.srl.ro/CatalogueFarnell/Product/1773598/                                                                    | https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0013043571/DIOD-S-A0013120650-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0 |
 
 -------------------------------------------------------------------------------
-Examinare 3D a dispozitivului:
+## Examinare 3D a dispozitivului:
  - pentru a vedea in Fusion ce este in spatele ecranului:
     apasa Hide pe Browser -> Bodies -> Box: vei vedea placuta si bateria
 
@@ -55,7 +55,7 @@ Examinare 3D a dispozitivului:
 repository
 
 -------------------------------------------------------------------------------
-Descriere Proiect:
+## Descriere Proiect:
 
 OpenBook este un e-book reader open-source implementat pentru o citire simpla a
 cartilor electronice. Pentru elaborarea acestui proiect au fost folosite
@@ -65,7 +65,7 @@ ESP32-C6. Intregului dispozititv ii este asociat o baterie si un ecran, toate
 acestea fiind amplasate intr-o carcasa, fiind vizibile in directorul Mechanical
 
 -------------------------------------------------------------------------------
-Componente Hardware folosite:
+## Componente Hardware folosite:
 - ESP32-C6: Microcontroller principal, care asigura conectivitatea si
 procesarea datelor.
 - E-Paper Display: Display cu consum redus de energie, conectat prin
@@ -79,7 +79,7 @@ prin interfața I2C.
 - Conectori pentru SD Card: Pentru extinderea memoriei si stocarea cartilor.
 
 -------------------------------------------------------------------------------
-ESP32-C6:
+## ESP32-C6:
  - GPIO pinii sunt utilizați pentru conectarea senzorilor și a altor componente periferice.
  - SPI pentru E-Paper și memorie Flash.
  - I2C pentru senzorul de mediu.
